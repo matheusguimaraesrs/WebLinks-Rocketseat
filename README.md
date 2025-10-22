@@ -10,12 +10,12 @@ Realizei uma versão customizada para a entrega do projeto final de conclusão d
 
 ## Dark Mode 
 
-<img width="1881" height="914" src="./assets/desktop-print.png" />
+<img width="1881" height="914" src="./assets/desktop1.png" />
 
 
 ## Light Mode
 
-<img width="1889" height="921" src="./assets/desktop-light-print.png" />
+<img width="1889" height="921" src="./assets/desktop2.png" />
 
 ## Mobile
 
