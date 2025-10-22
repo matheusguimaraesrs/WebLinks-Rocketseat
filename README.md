@@ -10,18 +10,18 @@ Realizei uma versão customizada para a entrega do projeto final de conclusão d
 
 ## Dark Mode 
 
-<img width="1881" height="914" alt="Captura de tela 2025-10-22 001901" src="./assets/desktop-print" />
+<img width="1881" height="914" alt="Captura de tela 2025-10-22 001901" src="./assets/desktop-print.png" />
 
 
 ## Light Mode
 
-<img width="1889" height="921" alt="Captura de tela 2025-10-22 001846" src="./assets/desktop-light-print" />
+<img width="1889" height="921" alt="Captura de tela 2025-10-22 001846" src="./assets/desktop-light-print.png" />
 
 ## Mobile
 
 <div align="center">
-  <img width="373" height="813" alt="Captura de tela 2025-10-22 002030" src="./assets/mobile-print" />
-  <img width="373" height="813" alt="Captura de tela 2025-10-22 002044" src="./assets/mobile-light-print" />
+  <img width="373" height="813" alt="Captura de tela 2025-10-22 002030" src="./assets/mobile-print.png" />
+  <img width="373" height="813" alt="Captura de tela 2025-10-22 002044" src="./assets/mobile-light-print.png" />
 </div>
 
 ## Tecnologias
